@@ -19,9 +19,12 @@
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&labelColor=0D1117">&nbsp;
     <img align="center" alt="Figma" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117">&nbsp;
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">&nbsp;
+<br/><br/>
 	
-<a href="https://google.com" target="_blank">
-	<img width="35%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
-</a>
-
+<div align="center">
+	<br/><br/>
+	<a href="https://solo.to/nereshna" target="_blank">
+	<img width="35%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
+	</a>
+</div>
 
