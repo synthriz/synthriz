@@ -1,4 +1,5 @@
-<!--- <div><img src="https://cdn.discordapp.com/attachments/874773745452060692/1105214701606011041/cc5f754ecdff162c08cf0e9e1b2aad60.jpg" width="2000" height="200" align="center" alt="img"></div> --->
+<!--- <div><img src="https://cdn.discordapp.com/attachments/874773745452060692/1105214701606011041/cc5f754ecdff162c08cf0e9e1b2aad60.jpg" width="2000" height="200" align="center" alt="img"></div>
+<div><img align="left" src="https://cdn.discordapp.com/attachments/874773745452060692/1105545551811969094/blinkiesCafe-om.gif"</div> -->
 <br/><br/>
 
 <p align="center">
@@ -8,7 +9,7 @@
 
 <div>
 	<a href="https://solo.to/nereshna" target="_blank">
-		<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
+		<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398?idleMessage=Idling...👾">
 	</a>
 </div>
 
@@ -25,6 +26,4 @@
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&labelColor=0D1117">&nbsp;
     <img align="center" alt="Figma" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117">&nbsp;
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">&nbsp;
-<br/><br/>
-	
 
