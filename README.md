@@ -8,7 +8,7 @@
 
 <div>
 	<a href="https://solo.to/nereshna" target="_blank">
-		<img width="40%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
+		<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
 	</a>
 </div>
 
