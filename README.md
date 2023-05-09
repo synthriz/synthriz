@@ -7,13 +7,11 @@
 <br/><br/>
 
 <div>
-	<br/><br/>
 	<a href="https://solo.to/nereshna" target="_blank">
-		<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
+		<img width="40%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398">
 	</a>
 </div>
 
-<br/><br/>
 #### languages
 <div width="20%">  
     <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117">&nbsp; 
