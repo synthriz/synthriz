@@ -8,7 +8,7 @@
 <br/><br/>
 
 <div>
-	<a href="https://solo.to/nereshna" target="_blank">
+	<a href="https://github.com/synthriz/" target="_blank">
 		<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398?idleMessage=Idling...👾">
 	</a>
 </div>
