@@ -7,11 +7,11 @@
 </p>
 <br/><br/>
 
-<div>
+<!--- <div>
 	<a href="https://github.com/synthriz/" target="_blank">
 		<img width="45%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/444572933558501398?idleMessage=Idling...👾">
 	</a>
-</div>
+</div> --->
 
 #### languages
 <div width="20%">  
