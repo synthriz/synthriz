@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=553986&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52796F&height=120&section=header"/>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E0E0E0&center=true&vCenter=true&width=500&lines=hey,+i'm+Triz+👾;welcome+to+my+profile"(https://git.io/typing-svg)>
 </p>
@@ -26,7 +26,7 @@
 </div>
 
 <br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=553986&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52796F&height=120&section=footer"/>
 
 <!--- <div align="right">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthriz&layout=donut&include_all_commits=true&langs_count=16&theme=codeSTACKr" />
