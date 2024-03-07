@@ -22,7 +22,7 @@
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/trizbeatavares/"> <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/> </a>
-	<a href="behance.net/synthriz/"> <img align="center" alt="Behance" src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=0054F7"/> </a>
+	<a href="https://www.behance.net/synthriz/"> <img align="center" alt="Behance" src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=0054F7"/> </a>
 </div>
 
 <br/><br/>
