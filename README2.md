@@ -1,7 +1,8 @@
 <table>
   <tr>
     <td width="350px">
-       <img src="https://github.com/user-attachments/assets/99e23851-277a-4d72-bf97-77581b9f8900" alt="imagem" style="width: full; border: none;"/>
+<!--        <img src="https://github.com/user-attachments/assets/99e23851-277a-4d72-bf97-77581b9f8900" alt="imagem" style="width: full; border: none;"/> -->
+       <img src="https://github.com/user-attachments/assets/2645b3d9-244a-4f94-be75-245ad36a0e32" alt="imagem" style="width: full; border: none;"/>
     </td>
     <td style="vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
