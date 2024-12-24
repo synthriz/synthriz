@@ -14,25 +14,25 @@
         
  </pre>
    <pre>
-      /about me
-      │
-      ├── /bio
-      │    ├── she/her - brazilian - (pt/br + en + es)
-      │    └── front-end dev - ux/ui designer
-      │
-      └── /stack    
-      |    ├── html/css
-      |    ├── javascript
-      |    ├── typescript
-      |    ├── react.js
-      |    ├── tailwind.css
-      |    ├── node.js
-      |    ├── sql
-      |    └── git
-      |
-      └── /socials
-           ├── <a href="https://www.linkedin.com/in/trizbeatavares/" target="_blank">linkedin</a>
-           └── <a href="https://www.behance.net/synthriz/" target="_blank">behance</a>
+  /about me
+  │
+  ├── /bio
+  │    ├── she/her - brazilian - (pt/br + en + es)
+  │    └── front-end dev - ux/ui designer
+  │
+  └── /stack    
+  |    ├── html/css
+  |    ├── javascript
+  |    ├── typescript
+  |    ├── react.js
+  |    ├── tailwind.css
+  |    ├── node.js
+  |    ├── sql
+  |    └── git
+  |
+  └── /socials
+      ├── <a href="https://www.linkedin.com/in/trizbeatavares/" target="_blank">linkedin</a>
+      └── <a href="https://www.behance.net/synthriz/" target="_blank">behance</a>
    </pre>
   </tr>
 </table>
