@@ -5,7 +5,7 @@
 <!-- 		inclusive by default ♿ student @ fatec 📚  -->
 		<!-- ₍ᐢ. .ᐢ₎  -->
 	</p>
-	<p align="center">
+	<!-- <p align="center">
 		currently learning flutter 📘
-	</p>
+	</p> -->
 </samp>
