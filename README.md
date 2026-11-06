@@ -1,8 +1,8 @@
 <samp> 
-	<h3 align="center"> hi! i'm Triz, a front-end engineer from Brazil ;) </h3>
+	<h3 align="center"> hi! i'm Beatriz, a front-end engineer from Brazil ;) </h3>
 	<p align="center">
-		js, ts, react, react native ⚛️ ・ front-end development 💻 ・ inclusive by default ♿ 
-<!-- 		inclusive by default ♿ student @ fatec 📚  -->
+		js, ts, react, react native ⚛️ ・ inclusive by default ♿ 
+<!-- 		inclusive by default ♿ student @ fatec 📚 ・ front-end development 💻   -->
 		<!-- ₍ᐢ. .ᐢ₎  -->
 	</p>
 	<!-- <p align="center">
